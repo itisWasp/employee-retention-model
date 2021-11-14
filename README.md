@@ -9,7 +9,7 @@ Understanding why and when employees are most likely to leave can lead to action
 
 In this study, we will attempt to solve the following problem statement is:<br>
 
-> - **What is the likelihood of an active employee leaving the company?** <br>
+- **What is the likelihood of an active employee leaving the company?** <br>
 - **What are the key indicators of an employee leaving the company?**. 
 - **What policies or strategies can be adopted based on the results to improve employee retention?**.<br>
 
